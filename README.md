@@ -13,6 +13,7 @@ Problems Included
 1. LeetCode 1 – Two Sum
 2. LeetCode 167 – Two Sum II: Input Array Is Sorted
 3. LeetCode 217 – Contains Duplicate
+4. Leetcode 219 - contains duplicate II
 
 These problems cover important concepts such as:
 - HashMap
