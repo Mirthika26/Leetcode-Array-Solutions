@@ -1,0 +1,24 @@
+class Solution {
+    public int maxOperations(int[] nums, int k) {
+        int count = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            int rem = k - num;
+
+            if (map.containsKey(rem) && map.get(rem) > 0) {
+                count++;
+
+                map.put(rem, map.get(rem) - 1);
+
+                if (map.get(rem) == 0) {
+                    map.remove(rem);
+                }
+            } else {
+                map.put(num, map.getOrDefault(num, 0) + 1);
+            }
+        }
+
+        return count;
+    }
+}
