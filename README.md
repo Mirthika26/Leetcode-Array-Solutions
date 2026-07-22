@@ -30,5 +30,3 @@ These problems cover important concepts such as:
 - Master array-based coding patterns
 - Prepare for coding interviews and placement tests
 - Build a structured collection of LeetCode solutions
----
-⭐ This repository will continue the grow as I solve more LeetCode problems and learn new DSA patterns.
