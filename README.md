@@ -14,7 +14,8 @@ Problems Included
 2. LeetCode 167 – Two Sum II: Input Array Is Sorted
 3. LeetCode 217 – Contains Duplicate
 4. Leetcode 219 - contains duplicate II
-5. Leetcode 1670 - Max number of k sum pair 
+5. Leetcode 1670 - Max number of k sum pair
+6. Leetcode 2006 - Count Number of Pairs With Absolute Difference K
 
 These problems cover important concepts such as:
 - HashMap
