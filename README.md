@@ -5,9 +5,7 @@ LeetCode Array Based Solutions
 This repository contains my Java solutions to LeetCode Array problems. The solutions are written with clean code and optimized approaches to help improve problem-solving skills for coding interviews and placement preparation.
 
 The repository is organized based on DSA patterns, starting with the Two Sum Pattern.
-
 ---
-
 📂 Current Pattern: Two Sum Pattern
 Problems Included
 1. LeetCode 1 – Two Sum
