@@ -1,4 +1,4 @@
-hLeetCode Array Based Solutions
+LeetCode Array Based Solutions
 
 📌 Overview
 
