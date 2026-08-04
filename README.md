@@ -1,4 +1,4 @@
-LeetCode Array Based Solutions
+hLeetCode Array Based Solutions
 
 📌 Overview
 
@@ -23,7 +23,7 @@ These problems cover important concepts such as:
 ---
 💻 Language
 - Java
----
+  
 🎯 Purpose
 - Practice Data Structures and Algorithms (DSA)
 - Master array-based coding patterns
