@@ -14,6 +14,7 @@ Problems Included
 4. Leetcode 219 - contains duplicate II
 5. Leetcode 1670 - Max number of k sum pair
 6. Leetcode 2006 - Count Number of Pairs With Absolute Difference K
+7. Leetcode 15 - 3Sum
 
 These problems cover important concepts such as:
 - HashMap
